@@ -8,4 +8,6 @@ To understand the factors that lead a person to look for a job change, the agenc
 
 Evaluation Metric:
 The evaluation metric for this competition is AUC-ROC score.
+
+
 https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/#ProblemStatement
